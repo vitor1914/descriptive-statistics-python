@@ -1,57 +1,45 @@
-# Estatística Descritiva com Python
+# Estatística Descritiva com Python | Descriptive Statistics with Python
 
-## Sobre o projeto
+🇧🇷 Português | 🇺🇸 English
 
-Projeto desenvolvido em Python para realizar análises estatísticas descritivas utilizando a biblioteca Pandas, com dados de vendas.
+## 🇧🇷 Português
 
-## Tecnologias utilizadas
+### Sobre o projeto
 
-- Python 3
+Este projeto realiza uma análise estatística descritiva utilizando Python e Pandas. O objetivo é explorar conjuntos de dados numéricos, identificar características importantes e gerar um relatório com métricas estatísticas que auxiliam na compreensão dos dados.
+
+O projeto foi desenvolvido como parte dos estudos de Análise de Dados e Estatística.
+
+### Funcionalidades
+
+- Leitura de dados a partir de um arquivo CSV.
+- Criação automática de um conjunto de dados de exemplo quando o arquivo não existe.
+- Visualização das primeiras linhas do conjunto de dados.
+- Identificação da quantidade de linhas e colunas.
+- Verificação dos tipos de dados.
+- Identificação de valores ausentes.
+- Detecção de registros duplicados.
+- Cálculo de estatísticas descritivas.
+- Cálculo de média, mediana e moda.
+- Cálculo de variância e desvio-padrão.
+- Análise de assimetria.
+- Cálculo da matriz de correlação.
+- Geração automática de um relatório em arquivo TXT.
+
+### Tecnologias utilizadas
+
+- Python
 - Pandas
+- CSV
+- Git e GitHub
 
-## Análises realizadas
+### Estatísticas analisadas
 
-- Média
-- Mediana
-- Moda
-- Amplitude
-- Variância
-- Desvio padrão
-- Resumo estatístico dos dados
-
-## Estrutura do projeto
-
-```text
-estatistica_descritiva/
-├── estatistica.py
-└── README.md
-```
-
-## Como executar
-
-Instale a biblioteca Pandas:
-
-```bash
-python -m pip install pandas
-```
-
-Execute o programa:
-
-```bash
-python estatistica.py
-```
-
-## Objetivo
-
-Aplicar conceitos de Estatística Descritiva na análise de dados, desenvolvendo habilidades em Python e interpretação de resultados.
-
-## Próximas melhorias
-
-- Importação de arquivos CSV.
-- Análise de bases de dados maiores.
-- Criação de gráficos estatísticos.
-- Integração com SQL e Power BI.
-
-## Autor
-
-Projeto desenvolvido para aprendizado prático e construção de portfólio em Análise de Dados e Ciência de Dados.
+| Métrica | Descrição |
+|---|---|
+| Média | Valor médio dos dados |
+| Mediana | Valor central dos dados ordenados |
+| Moda | Valor mais frequente |
+| Variância | Medida de dispersão dos dados |
+| Desvio-padrão | Dispersão em relação à média |
+| Assimetria | Indica a simetr

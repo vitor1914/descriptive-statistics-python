@@ -1,0 +1,20 @@
+RELATÓRIO DE ESTATÍSTICA DESCRITIVA
+
+Registros: 10
+Colunas: 3
+
+Valores ausentes:
+vendas        0
+quantidade    0
+avaliacao     0
+
+Estatísticas descritivas:
+       vendas  quantidade  avaliacao
+count   10.00       10.00      10.00
+mean   192.50        4.50       4.20
+std     38.53        1.58       0.79
+min    120.00        2.00       3.00
+25%    176.25        3.25       4.00
+50%    195.00        4.50       4.00
+75%    217.50        5.75       5.00
+max    250.00        7.00       5.00

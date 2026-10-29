@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/vitoka/Área de trabalho/estatistica_descritiva/.venv/bin/python3" "$0" "$@"
+'''exec' "/home/vitoka/Área de trabalho/TI/Análise de Dados/Estatística/estatistica_descritiva/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

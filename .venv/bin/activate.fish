@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/home/vitoka/Área de trabalho/estatistica_descritiva/.venv'
+set -gx VIRTUAL_ENV '/home/vitoka/Área de trabalho/TI/Análise de Dados/Estatística/estatistica_descritiva/.venv'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
