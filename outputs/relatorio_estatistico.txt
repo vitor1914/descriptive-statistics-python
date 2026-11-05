@@ -1,0 +1,33 @@
+RELATORIO DE ANALISE ESTATISTICA
+========================================
+Registros analisados: 20
+Colunas analisadas: 9
+Valores ausentes restantes: 0
+
+ESTATISTICAS DESCRITIVAS
+----------------------------------------
+                quantidade    media  mediana  moda  minimo  maximo  amplitude   variancia  desvio_padrao  coeficiente_variacao_pct  primeiro_quartil  terceiro_quartil  intervalo_interquartil  percentil_90  assimetria  curtose
+variavel                                                                                                                                                                                                                         
+quantidade              20     3.95      3.0     2       1      10          9        5.94           2.44                     61.73               2.0              5.25                    3.25           7.1        0.98     0.47
+preco_unitario          20  1198.50    250.0  3500      80    3500       3420  2030792.37        1425.06                    118.90             150.0           1775.00                 1625.00        3500.0        0.97    -0.85
+custo_unitario          20   915.00    140.0  2800      40    2800       2760  1338752.63        1157.04                    126.45              80.0           1337.50                 1257.50        2800.0        1.02    -0.78
+receita                 20  2407.50   1000.0  7000     400    7000       6600  5236293.42        2288.29                     95.05             750.0           3525.00                 2775.00        7000.0        1.19     0.24
+custo_total             20  1762.00    560.0  5600     200    5600       5400  3595522.11        1896.19                    107.62             400.0           2612.50                 2212.50        5600.0        1.24     0.34
+lucro                   20   645.50    440.0   700     200    1400       1200   163573.42         404.44                     62.66             345.0            787.50                  442.50        1400.0        0.93    -0.41
+
+VALORES ATIPICOS
+----------------------------------------
+      variavel  limite_inferior  limite_superior  quantidade_outliers  percentual_outliers
+    quantidade            -2.88            10.12                    0                  0.0
+preco_unitario         -2287.50          4212.50                    0                  0.0
+custo_unitario         -1806.25          3223.75                    0                  0.0
+       receita         -3412.50          7687.50                    0                  0.0
+   custo_total         -2918.75          5931.25                    0                  0.0
+         lucro          -318.75          1451.25                    0                  0.0
+
+INDICADORES DE RECEITA
+----------------------------------------
+Receita total: R$ 48,150.00
+Receita media: R$ 2,407.50
+Maior receita por registro: R$ 7,000.00
+Lucro total: R$ 12,910.00

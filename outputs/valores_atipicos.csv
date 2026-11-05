@@ -1,0 +1,7 @@
+variavel,limite_inferior,limite_superior,quantidade_outliers,percentual_outliers
+quantidade,-2.875,10.125,0,0.0
+preco_unitario,-2287.5,4212.5,0,0.0
+custo_unitario,-1806.25,3223.75,0,0.0
+receita,-3412.5,7687.5,0,0.0
+custo_total,-2918.75,5931.25,0,0.0
+lucro,-318.75,1451.25,0,0.0
