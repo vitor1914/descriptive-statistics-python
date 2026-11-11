@@ -1,5 +1,5 @@
 coluna,tipo,valores_ausentes,percentual_ausente,valores_unicos
-data,datetime64[us],0,0.0,20
+data,str,0,0.0,20
 produto,str,0,0.0,5
 categoria,str,0,0.0,3
 quantidade,int64,0,0.0,9
